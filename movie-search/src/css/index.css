@@ -13,7 +13,7 @@
 }
 body {
   color: #576366;
-  background: #5fcf80;
+  background: #000000;
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
@@ -83,7 +83,8 @@ header {
   margin-bottom: 2em;
 }
 .main-content {
-  padding: 1em 2em;
+  padding: 0em 1em;
+  text-align: right;
 }
 .group:after {
   content: "";
